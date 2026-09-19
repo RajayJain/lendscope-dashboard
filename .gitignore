@@ -6,9 +6,3 @@ __pycache__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-# Data and Models
-data/
-models/
-*.csv
-*.json
