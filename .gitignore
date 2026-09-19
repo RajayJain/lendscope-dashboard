@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data and Models
+data/
+models/
+*.csv
+*.json
